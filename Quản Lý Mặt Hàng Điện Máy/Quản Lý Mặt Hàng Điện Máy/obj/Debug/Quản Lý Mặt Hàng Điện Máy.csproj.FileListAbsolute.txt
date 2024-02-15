@@ -1,0 +1,10 @@
+D:\On Thi Tot Nghiep\Tran Viet Cuong\Quản Lý Mặt Hàng Điện Máy\Quản Lý Mặt Hàng Điện Máy\bin\Debug\Quản Lý Mặt Hàng Điện Máy.exe.config
+D:\On Thi Tot Nghiep\Tran Viet Cuong\Quản Lý Mặt Hàng Điện Máy\Quản Lý Mặt Hàng Điện Máy\bin\Debug\Quản Lý Mặt Hàng Điện Máy.exe
+D:\On Thi Tot Nghiep\Tran Viet Cuong\Quản Lý Mặt Hàng Điện Máy\Quản Lý Mặt Hàng Điện Máy\bin\Debug\Quản Lý Mặt Hàng Điện Máy.pdb
+D:\On Thi Tot Nghiep\Tran Viet Cuong\Quản Lý Mặt Hàng Điện Máy\Quản Lý Mặt Hàng Điện Máy\obj\Debug\Quản Lý Mặt Hàng Điện Máy.csprojResolveAssemblyReference.cache
+D:\On Thi Tot Nghiep\Tran Viet Cuong\Quản Lý Mặt Hàng Điện Máy\Quản Lý Mặt Hàng Điện Máy\obj\Debug\Quản_Lý_Mặt_Hàng_Điện_Máy.FormHeThong.resources
+D:\On Thi Tot Nghiep\Tran Viet Cuong\Quản Lý Mặt Hàng Điện Máy\Quản Lý Mặt Hàng Điện Máy\obj\Debug\Quản_Lý_Mặt_Hàng_Điện_Máy.FormMatHang.resources
+D:\On Thi Tot Nghiep\Tran Viet Cuong\Quản Lý Mặt Hàng Điện Máy\Quản Lý Mặt Hàng Điện Máy\obj\Debug\Quản_Lý_Mặt_Hàng_Điện_Máy.Properties.Resources.resources
+D:\On Thi Tot Nghiep\Tran Viet Cuong\Quản Lý Mặt Hàng Điện Máy\Quản Lý Mặt Hàng Điện Máy\obj\Debug\Quản Lý Mặt Hàng Điện Máy.csproj.GenerateResource.Cache
+D:\On Thi Tot Nghiep\Tran Viet Cuong\Quản Lý Mặt Hàng Điện Máy\Quản Lý Mặt Hàng Điện Máy\obj\Debug\Quản Lý Mặt Hàng Điện Máy.exe
+D:\On Thi Tot Nghiep\Tran Viet Cuong\Quản Lý Mặt Hàng Điện Máy\Quản Lý Mặt Hàng Điện Máy\obj\Debug\Quản Lý Mặt Hàng Điện Máy.pdb
